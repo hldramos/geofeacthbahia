@@ -114,5 +114,5 @@ ids = [
     "2933604",
 ]
 
-retorno = filtrar_geojson_por_ids(ids, "calcario.geojson")
+retorno = filtrar_geojson_por_ids(ids, "calcario.json")
 print(retorno)
